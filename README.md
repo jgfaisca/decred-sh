@@ -1,0 +1,2 @@
+# decred-sh
+Decred scripts
